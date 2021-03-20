@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    font-size: 30pt;
+}
+
+section#container {
+    background-color: chartreuse;
+    max-width: 450px;
+    height: 350px;
+    margin: auto;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+div#inputs input {
+    padding: 10px;
+    border: none;
+    box-sizing: border-box;
+    width: 100%;
+    margin-bottom: 10px;  
+}
+
+div#resultado {
+    margin-top: 30px;
+    text-align: center;
+}
